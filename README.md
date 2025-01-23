@@ -1,19 +1,19 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *SMC*
 
-Submitted by: **Your Name Here**
+Submitted by: **Tejdeep Uckoo**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**SMC** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **10** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [x] The introduction section explains the background of the company and how many games remain unfunded.
+* [x] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
@@ -33,8 +33,11 @@ GIF created with ...
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+Challenges I encountered:
+- Shift in the syntax from python to Javascript was challenging, as I was totally used to writing code in python.
+- Learnt that filter function does not work if {} are not used in the arrow function.
+- Writing javascript using `` while using ternary operator within the quotes was challenging, but I was able to figure it out in the end.
+- Unable to reproduce Destruction of JSON object as intructed in the Challenge. 
 
 ## License
 
