@@ -179,7 +179,6 @@ const second = GAMES_JSON[1];
 
 // create a new element to hold the name of the top pledge game, then append it to the correct element
 const name = first.name;
-console.log(firstname);
 const top = `<p> ${name} </p>`
 firstGameContainer.innerHTML += name.toLocaleString('en-US');
 
